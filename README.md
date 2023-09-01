@@ -2,7 +2,7 @@
 
   **Description:**
   
-      This project uses methods and functions and to list comprehensions to extract, transform, and clean data. Then, you'll pair with a partner to start working on the ETL mini project.
+      This project uses methods and functions to list comprehensions to extract, transform, and clean data. Then, you'll pair with a partner to start working on the ETL mini project.
   
   **Challenge assignment:**
   
