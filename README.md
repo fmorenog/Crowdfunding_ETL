@@ -1,4 +1,4 @@
-**# SQL CHALLENGE**
+**# ETL mini project**
 
   **Description:**
   
